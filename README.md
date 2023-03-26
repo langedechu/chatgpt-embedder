@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+![code size](https://img.shields.io/github/languages/code-size/langedechu/chatgpt-embedder?style=for-the-badge)
+![file count](https://img.shields.io/github/directory-file-count/langedechu/chatgpt-embedder?style=for-the-badge)
+![github release](https://img.shields.io/github/downloads/langedechu/chatgpt-embedder/latest/total?style=for-the-badge)
+![package version](https://img.shields.io/github/package-json/v/langedechu/chatgpt-embedder?style=for-the-badge)
+![license](https://img.shields.io/github/license/langedechu/chatgpt-embedder?style=for-the-badge)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tech Stack
 
-## Available Scripts
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+```bash
+npm install
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+npm start
+```
 
-### `npm test`
+## License
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[GPL-3.0](https://choosealicense.com/licenses/mit/)
 
-### `npm run build`
+## Contributing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Authors
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [@langedechu](https://www.github.com/langedechu)
 
-### `npm run eject`
+## Acknowledgements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [ChatGPT](https://chat.openai.com)
+- [OpenAI](https://openai.com/)
+- [GPT-3](https://openai.com/blog/gpt-3-apps/)
+- [GPT-3 API](https://beta.openai.com/docs/api-reference/introduction)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Disclaimer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is not affiliated with OpenAI or GPT-3 in any way. This project is for educational purposes only.
+This project is just an embedding for the OpenAI ChatGPT API. It is not a replacement for the API and all data are stored into YOUR OpenAI account.
+This project is not responsible for any data loss or any other issues that may occur with the OpenAI API.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Support
 
-## Learn More
+For support, email [contact.nocteria@gmail.com](mailto:contact.nocteria@gmail.com) or open an issue.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## End
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This is the end of the README.md file. Thank you for reading this far. If you have any questions, please open an issue or email me at [contact.noteria@gmail.com](mailto:contact.nocteria@gmail.com).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This README.md file was generated with the help of GitHub Copilot.
